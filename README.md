@@ -54,7 +54,6 @@ The data is used to identify customer trends, revenue drivers, and behavioral pa
 3. **Exploratory Data Analysis (EDA)**
 
    * Analyzed customer behavior and trends
-   * Created charts and visual summaries
    * Identified key performance indicators
 
 4. **SQL Analysis**
@@ -85,7 +84,7 @@ The Power BI dashboard includes:
 * Purchase behavior insights
 * Key business KPIs
 
-*(Add dashboard screenshots or link here)*
+
 
 ---
 
