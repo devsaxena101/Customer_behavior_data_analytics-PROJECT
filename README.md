@@ -29,7 +29,7 @@ The data is used to identify customer trends, revenue drivers, and behavioral pa
 
 ## Tools & Technologies
 
-* **Python** (Pandas, NumPy, Matplotlib/Seaborn) – Data cleaning & EDA
+* **Python** (Pandas) – Data cleaning & EDA
 * **PostgreSQL** – SQL querying and data analysis
 * **Power BI** – Dashboard visualization
 * **Jupyter Notebook** – Analysis environment
