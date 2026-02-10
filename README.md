@@ -2,113 +2,104 @@
 Customer Behavior Data Analysis project focused on exploring purchasing patterns, customer segmentation, and sales trends using Python, SQL, and data visualization to generate actionable business insights.
 :
 
-📊 Customer Behavior Data Analysis Project
-Overview
+
+
+
+# 📊 Customer Behavior Data Analysis Project
+
+## Overview
 
 This project analyzes customer behavior to uncover purchasing patterns, trends, and actionable insights. It combines Python-based data analysis, SQL querying, and interactive dashboard visualization to simulate a real-world data analytics workflow. The project demonstrates end-to-end skills including data cleaning, exploratory data analysis (EDA), database querying, reporting, and presentation.
 
-Dataset
+
+
+## Dataset
 
 The dataset contains customer transaction and purchase information, including:
 
-Customer demographics
-
-Product categories
-
-Purchase amounts
-
-Order frequency
-
-Sales records
+* Customer demographics
+* Product categories
+* Purchase amounts
+* Order frequency
+* Sales records
 
 The data is used to identify customer trends, revenue drivers, and behavioral patterns that support business decision-making.
 
-Tools & Technologies
+---
 
-Python (Pandas, NumPy, Matplotlib/Seaborn) – Data cleaning & EDA
+## Tools & Technologies
 
-PostgreSQL – SQL querying and data analysis
+* **Python** (Pandas, NumPy, Matplotlib/Seaborn) – Data cleaning & EDA
+* **PostgreSQL** – SQL querying and data analysis
+* **Power BI** – Dashboard visualization
+* **Jupyter Notebook** – Analysis environment
+* **Gamma** – Presentation creation
+* **Excel/CSV** – Dataset format
 
-Power BI – Dashboard visualization
+---
 
-Jupyter Notebook – Analysis environment
+## Project Steps
 
-Gamma – Presentation creation
+1. **Data Loading**
 
-Excel/CSV – Dataset format
+   * Imported dataset into Python using Pandas
+   * Inspected structure and data types
 
-Project Steps
+2. **Data Cleaning**
 
-Data Loading
+   * Handled missing values
+   * Removed duplicates
+   * Corrected formatting and inconsistencies
 
-Imported dataset into Python using Pandas
+3. **Exploratory Data Analysis (EDA)**
 
-Inspected structure and data types
+   * Analyzed customer behavior and trends
+   * Created charts and visual summaries
+   * Identified key performance indicators
 
-Data Cleaning
+4. **SQL Analysis**
 
-Handled missing values
+   * Loaded cleaned data into PostgreSQL
+   * Wrote SQL queries for aggregations and insights
+   * Generated revenue and segmentation metrics
 
-Removed duplicates
+5. **Dashboard Creation**
 
-Corrected formatting and inconsistencies
+   * Built interactive Power BI dashboard
+   * Visualized KPIs and customer trends
 
-Exploratory Data Analysis (EDA)
+6. **Reporting & Presentation**
 
-Analyzed customer behavior and trends
+   * Created a structured project report
+   * Designed a presentation using Gamma
 
-Created charts and visual summaries
+---
 
-Identified key performance indicators
-
-SQL Analysis
-
-Loaded cleaned data into PostgreSQL
-
-Wrote SQL queries for aggregations and insights
-
-Generated revenue and segmentation metrics
-
-Dashboard Creation
-
-Built interactive Power BI dashboard
-
-Visualized KPIs and customer trends
-
-Reporting & Presentation
-
-Created a structured project report
-
-Designed a presentation using Gamma
-
-Dashboard
+## Dashboard
 
 The Power BI dashboard includes:
 
-Sales and revenue overview
+* Sales and revenue overview
+* Customer segmentation analysis
+* Product performance trends
+* Purchase behavior insights
+* Key business KPIs
 
-Customer segmentation analysis
+*(Add dashboard screenshots or link here)*
 
-Product performance trends
+---
 
-Purchase behavior insights
-
-Key business KPIs
-
-(Add dashboard screenshots or link here)
-
-Results & Insights
+## Results & Insights
 
 Key findings include:
 
-Identification of high-value customer segments
-
-Top-performing product categories
-
-Revenue contribution patterns
-
-Purchase frequency trends
-
-Opportunities for business optimization
+* Identification of high-value customer segments
+* Top-performing product categories
+* Revenue contribution patterns
+* Purchase frequency trends
+* Opportunities for business optimization
 
 The analysis provides actionable recommendations to improve customer engagement and sales strategy.
+
+---
+
